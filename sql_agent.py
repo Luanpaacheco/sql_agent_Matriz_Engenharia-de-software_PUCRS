@@ -75,8 +75,6 @@ if __name__ == "__main__":
 
     print("\n[INFO] Agente SQL pronto.")
     print("[INFO] Faça perguntas sobre a base de dados.")
-    print("[INFO] Exemplo: 'Quais são os 5 artistas com mais álbuns?'")
-    print("[INFO] Para sair: CTRL+C\n")
 
     while True:
         try:
