@@ -1,0 +1,413 @@
+[
+    {
+        "codigo": "95303",
+        "nome": "Matemática Discreta",
+        "creditos": 4,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "254CF",
+        "nome": "Formação do Empreendedor",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "4611C",
+        "nome": "Fundamentos de Programação",
+        "creditos": 6,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98900",
+        "nome": "Introdução à Engenharia de Software",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98705",
+        "nome": "Introdução à Computação",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "95300",
+        "nome": "Cálculo I",
+        "creditos": 4,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "4611E",
+        "nome": "Lógica para Computação",
+        "creditos": 4,
+        "prerequisitos": [
+            "95303"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98901",
+        "nome": "Banco de Dados I",
+        "creditos": 4,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "4645G",
+        "nome": "Algoritmos e Estrutura de Dados I",
+        "creditos": 4,
+        "prerequisitos": [
+            "4611C"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "4611F",
+        "nome": "Programação Orientada a Objetos",
+        "creditos": 4,
+        "prerequisitos": [
+            "4611C"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "46506",
+        "nome": "Engenharia de Requisitos",
+        "creditos": 4,
+        "prerequisitos": [
+            "98900"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98800",
+        "nome": "Fundamentos de Sistemas  Computacionais",
+        "creditos": 4,
+        "prerequisitos": [],
+        "requisitos_especiais": [
+            "98705"
+        ]
+    },
+    {
+        "codigo": "46515",
+        "nome": "Linguagens,  Autômatos e Computação",
+        "creditos": 4,
+        "prerequisitos": [],
+        "requisitos_especiais": [
+            "95303"
+        ]
+    },
+    {
+        "codigo": "98902",
+        "nome": "Banco de Dados II",
+        "creditos": 2,
+        "prerequisitos": [
+            "98901"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "4645H",
+        "nome": "Algoritmos e Estrutura de Dados II",
+        "creditos": 4,
+        "prerequisitos": [
+            "4645G"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "46526",
+        "nome": "Programação de Software Básico",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": [
+            "4645G"
+        ]
+    },
+    {
+        "codigo": "95304",
+        "nome": "Probabilidade e Estatística",
+        "creditos": 4,
+        "prerequisitos": [],
+        "requisitos_especiais": [
+            "95300"
+        ]
+    },
+    {
+        "codigo": "46522",
+        "nome": "Prática na AGES I",
+        "creditos": 4,
+        "prerequisitos": [
+            "4611F"
+        ],
+        "requisitos_especiais": [
+            "98900",
+            "46509"
+        ]
+    },
+    {
+        "codigo": "46514",
+        "nome": "Linguagens de Programação",
+        "creditos": 4,
+        "prerequisitos": [
+            "46515"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "4646Z",
+        "nome": "Projeto e Otimização de Algoritmos",
+        "creditos": 4,
+        "prerequisitos": [
+            "4645H"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98713",
+        "nome": "Fundamentos de Processamento Paralelo e Distribuído",
+        "creditos": 4,
+        "prerequisitos": [
+            "4611F",
+            "46515"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98905",
+        "nome": "Experiência do Usuário",
+        "creditos": 4,
+        "prerequisitos": [
+            "46506"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "46523",
+        "nome": "Prática na AGES II",
+        "creditos": 4,
+        "prerequisitos": [
+            "98901",
+            "46522"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98708",
+        "nome": "Inteligência Artificial",
+        "creditos": 4,
+        "prerequisitos": [
+            "4645H"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98906",
+        "nome": "Projeto e Arquitetura de Software",
+        "creditos": 4,
+        "prerequisitos": [
+            "4611F"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98700",
+        "nome": "Sistemas Operacionais",
+        "creditos": 4,
+        "prerequisitos": [
+            "98800"
+        ],
+        "requisitos_especiais": [
+            "98713"
+        ]
+    },
+    {
+        "codigo": "46510",
+        "nome": "Gerenciamento de Projetos",
+        "creditos": 4,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98H00",
+        "nome": "Infraestrutura para Gestão de Dados",
+        "creditos": 4,
+        "prerequisitos": [
+            "98902"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "46507",
+        "nome": "Engenharia de Software Experimental",
+        "creditos": 2,
+        "prerequisitos": [
+            "95304"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "46504",
+        "nome": "Construção de Software",
+        "creditos": 4,
+        "prerequisitos": [
+            "98906"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98709",
+        "nome": "Fundamentos de Redes de Computadores",
+        "creditos": 4,
+        "prerequisitos": [
+            "98700"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98710",
+        "nome": "Laboratório de Redes de Computadores",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": [
+            "98709"
+        ]
+    },
+    {
+        "codigo": "4471V",
+        "nome": "Sistemas de Planejamento de Custos para Engenharia",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98903",
+        "nome": "Processos de Software",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "46524",
+        "nome": "Prática na AGES III",
+        "creditos": 4,
+        "prerequisitos": [
+            "46523",
+            "46504"
+        ],
+        "requisitos_especiais": [
+            "98904"
+        ]
+    },
+    {
+        "codigo": "4646M",
+        "nome": "Métodos Formais para Computação",
+        "creditos": 4,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "4636N",
+        "nome": "Infraestrutura de TI",
+        "creditos": 4,
+        "prerequisitos": [
+            "98709"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "4471X",
+        "nome": "Engenharia Econômica",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": [
+            "4471V"
+        ]
+    },
+    {
+        "codigo": "13397",
+        "nome": "Psicologia e Gestão de Pessoas em TI",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "4611G",
+        "nome": "Simulação e Métodos Analíticos",
+        "creditos": 4,
+        "prerequisitos": [
+            "95304"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "46525",
+        "nome": "Prática na AGES IV",
+        "creditos": 4,
+        "prerequisitos": [
+            "46510",
+            "46524"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98715",
+        "nome": "Segurança de Sistemas",
+        "creditos": 4,
+        "prerequisitos": [
+            "4646Z"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "11521",
+        "nome": "Humanismo e Cultura Religiosa",
+        "creditos": 4,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "46517",
+        "nome": "Melhoria de Processos de Software",
+        "creditos": 2,
+        "prerequisitos": [
+            "98904"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98907",
+        "nome": "Engenharia e Gestão do Conhecimento",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "46509",
+        "nome": "Gerência de Configuração de Software",
+        "creditos": 2,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "98904",
+        "nome": "Verificação e Validação de Software",
+        "creditos": 4,
+        "prerequisitos": [
+            "46506"
+        ],
+        "requisitos_especiais": []
+    },
+    {
+        "codigo": "1501A",
+        "nome": "Ética e Cidadania",
+        "creditos": 4,
+        "prerequisitos": [],
+        "requisitos_especiais": []
+    }
+]
